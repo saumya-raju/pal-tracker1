@@ -1,4 +1,4 @@
-package test.pivotal.pal.trackerapi;
+/*package test.pivotal.pal.trackerapi;
 
 import com.jayway.jsonpath.DocumentContext;
 import io.pivotal.pal.tracker.PalTrackerApplication;
@@ -76,4 +76,4 @@ public class HealthApiTest {
         );
         return simulateFailurePostResponse;
     }
-}
+}*/
